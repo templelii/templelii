@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @templelii
+- 👋 Hi, I’m Tinapu Li
 - 👀 I’m interested in game design
 - 🌱 I’m currently learning Java
 - 📫 linkedIn @www.linkedin.com/in/tianpuli
